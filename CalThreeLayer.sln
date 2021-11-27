@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL_DataAL", "DAL_DataAL\DAL_DataAL.csproj", "{BE94E5B9-9A50-4095-924D-26F0683456AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BUS_BL", "BUS_BL\BUS_BL.csproj", "{F109E3D6-CF59-4E69-AA44-ABB6D652621E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI_PL", "GUI_PL\GUI_PL.csproj", "{71F66AC1-CA17-4453-AEA9-A88DDF6F25D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE94E5B9-9A50-4095-924D-26F0683456AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE94E5B9-9A50-4095-924D-26F0683456AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE94E5B9-9A50-4095-924D-26F0683456AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE94E5B9-9A50-4095-924D-26F0683456AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F109E3D6-CF59-4E69-AA44-ABB6D652621E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F109E3D6-CF59-4E69-AA44-ABB6D652621E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F109E3D6-CF59-4E69-AA44-ABB6D652621E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F109E3D6-CF59-4E69-AA44-ABB6D652621E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71F66AC1-CA17-4453-AEA9-A88DDF6F25D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71F66AC1-CA17-4453-AEA9-A88DDF6F25D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71F66AC1-CA17-4453-AEA9-A88DDF6F25D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71F66AC1-CA17-4453-AEA9-A88DDF6F25D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EAF4B48-2DD3-41DB-8FB7-E0467AC9A767}
+	EndGlobalSection
+EndGlobal
